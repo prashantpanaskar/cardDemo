@@ -31,7 +31,7 @@ function getBookDetails()
 {
   //create book array
   const book1={
-    "Title"    : "Angels and Demons",
+    "Title"    : "The Shivaji great",
     "Publisher": "Penguin Random House",
     "Author"   : "Dan Brown",
     "Price"    : 409,
